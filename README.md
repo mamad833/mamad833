@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mamad833
-- 👀 I’m interested in Application developer
+- 👀 I’m the application developer
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me   mr.hakimabadi@gmail.com |   www.linkedin.com/in/hakimabadi 
